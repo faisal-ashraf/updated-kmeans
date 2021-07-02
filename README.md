@@ -4,6 +4,7 @@ An updated version of kmeans clustering method using metaheuristics.
 Config file contains all the necessary parameters to tune. 
 
 Parameters: 
+
     budget : Number of time the optimization will take place
     
     kmax : Maximum number of Clusters
@@ -21,14 +22,14 @@ Parameters:
     Pe : number of elite individual
 
 Dataset used to compare with standard k-means and minibatch k-means: (All the datasets are collected from UCI repository) 
-    Iris
-    Heart Failure
-    Seed Data
-    Thyroid
-    Wine
-    Yeast
-    Breast
-    Glass
+   
+   Iris, Heart Failure, 
+    Seed Data, 
+    Thyroid, 
+    Wine, 
+    Yeast, 
+    Breast, 
+    Glass, 
     Wdbc
 
 
