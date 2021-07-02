@@ -15,8 +15,6 @@ Parameters:
     
     Pm : probability of mutation 
     
-    Pc : portion that participates in crossover
-    
     t : tournament size
     
     Pe : number of elite individual
