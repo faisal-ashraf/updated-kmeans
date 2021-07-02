@@ -43,4 +43,5 @@ Dataset used to compare with standard k-means and minibatch k-means: (All the da
 
 
 
-    
+    ![image](https://user-images.githubusercontent.com/24270121/124287845-509aa980-db72-11eb-85cc-58e4c24f6f58.png)
+
