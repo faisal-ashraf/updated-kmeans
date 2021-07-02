@@ -23,14 +23,24 @@ Parameters:
 
 Dataset used to compare with standard k-means and minibatch k-means: (All the datasets are collected from UCI repository) 
    
-   Iris, Heart Failure, 
-    Seed Data, 
-    Thyroid, 
-    Wine, 
-    Yeast, 
-    Breast, 
-    Glass, 
-    Wdbc
+   Iris, 
+   
+   Heart Failure, 
+   
+   Seed Data, 
+   
+   Thyroid, 
+   
+   Wine, 
+   
+   Yeast, 
+   
+   Breast, 
+   
+   Glass, 
+   
+   Wdbc
+
 
 
     
