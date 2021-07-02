@@ -23,23 +23,23 @@ Parameters:
 
 Dataset used to compare with standard k-means and minibatch k-means: (All the datasets are collected from UCI repository) 
    
-   Iris, 
+   Iris : (Data: 150, Dimension: 4, Cluster: 3) 
    
-   Heart Failure, 
+   Heart Failure : (Data: 299, Dimension: 12, Cluster: 2)
    
-   Seed Data, 
+   Seed Data: (Data: 210, Dimension: 7, Cluster: 2)
    
-   Thyroid, 
+   Thyroid: (Data: 215, Dimension: 5, Cluster: 2)
    
-   Wine, 
+   Wine: (Data: 178, Dimension: 13, Cluster: 3)
    
-   Yeast, 
+   Yeast: (Data: 1484, Dimension: 8, Cluster: 10)
    
-   Breast, 
+   Breast: (Data: 699, Dimension: 9, Cluster: 2)
    
-   Glass, 
+   Glass: (Data: 214, Dimension: 9, Cluster: 7)
    
-   Wdbc
+   Wdbc: (Data: 569, Dimension: 32, Cluster: 2)
 
 
 
