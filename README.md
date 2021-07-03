@@ -42,4 +42,9 @@ Dataset used to compare with standard k-means and minibatch k-means: (All the da
 
 
   ![image](https://user-images.githubusercontent.com/24270121/124288133-a66f5180-db72-11eb-97d5-1f5a6f4c26fa.png)
+  
+  How to run: 
+  1. Set up the values in Config.txt 
+  2. Set the dataset in the __main__.py and run it
+  
 
